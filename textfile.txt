@@ -1,0 +1,3 @@
+This line is written from Python write function 
+This line is written from Python writelines function
+Hello
